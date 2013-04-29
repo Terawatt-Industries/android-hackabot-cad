@@ -20,7 +20,7 @@ githubiverse:
         branch: master
 
     ## The names of directories where any images, source and stl files associated with the project can be found.
-    img_dir: img
+    img_dir:
     stl_dir: dist
     src_dir: src
 
